@@ -16,23 +16,30 @@ Um jogo da velha moderno feito em **Python** com **CustomTkinter** para interfac
 ![Demo do Jogo](assets/demo.gif)
 
 ## 🚀 Como rodar
+
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Jos3Vitor34/jogo-da-velha.git
+   ```
 
 2. Entre na pasta do projeto:
-cd jogo-da-velha
+   ```bash
+   cd jogo-da-velha
+   ```
 
 3. Instale as dependências:
-pip install customtkinter
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Execute o jogo:
-python main.py
+   ```bash
+   python main.py
+   ```
 
-🛠 Tecnologias usadas
-
+## 🛠 Tecnologias usadas
 - Python
 - CustomTkinter
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
